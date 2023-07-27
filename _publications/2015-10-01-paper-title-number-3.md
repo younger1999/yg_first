@@ -8,8 +8,7 @@ venue: 'Journal 1'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202306471'
 citation: 'J. Liu, J. Liu, H. Li, Z. Bin*, J. You*.Angew. Chem.Int. Ed.2023,e202306471.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202306471)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
